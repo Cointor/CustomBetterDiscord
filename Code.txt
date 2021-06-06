@@ -1,0 +1,20 @@
+// Pega esto en la opcion de Tema de Better Discord
+@import "https://monstrousdev.github.io/themes/phoenix-bundle/reborn.css";
+
+
+:root {
+  --roundness: 50px; 
+ --main-color: #3990b3;      
+  --hover-color: #3990b3; 
+  --home-color: #eee; 
+  --home-size: 24px; 
+  --shadow: rgba(0,0,0,.4); 
+ --background-image: url(https://cdn.autobild.es/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2019/07/elon-musk.jpg?itok=60Y37lUu); 
+  --background-blur: 0px; 
+--popup-background: url(https://kawa-news.com/wp-content/uploads/2021/04/elonmusk-820x500.jpg); 
+  --background-darkness: 0.75; 
+--logo: url(https://emoji.gg/assets/emoji/8340_ElonLOL.png);
+    
+}
+
+
